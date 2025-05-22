@@ -8,3 +8,4 @@ This synthetic dataset comprises 20000 records of personal and financial data,de
   * Risk Score Regression: To predict a continuous risk score associated with each individual's likelihood of loan default or financial instability.
 
   * Binary Classification: To determine the binary outcome of loan approval, indicating whether an applicant is likely to be approved or denied for a loan.
+![image](https://github.com/user-attachments/assets/8cabf7fe-9974-48db-9f2f-83b9ec499fb2)
